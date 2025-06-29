@@ -1,0 +1,19 @@
+{
+    "clienteId": "gezON1CQuBSBrPFObDY20iXhKiS2",
+    "mesaId": null,
+    "mozoId": null,
+    "estado": "pendiente",
+    "metodoPago": "yape",
+    "total": 47,
+    "tipoEntrega": "llevar",
+    "platos": [
+        {
+            "platoId": 2,
+            "cantidad": 1
+        },
+        {
+            "platoId": 1,
+            "cantidad": 1
+        }
+    ]
+}
